@@ -14,3 +14,6 @@ One last note:  I figured out that you can store the multiple SSL/TLS certs in o
     crt-base /etc/ssl/private
 ```
 and HAProxy with serve up the certificate for the requested site.
+
+
+  [![HitCount](https://hits.dwyl.com/ferdinandbergen/haproxy_home_config.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ferdinandbergen/haproxy_home_config)
